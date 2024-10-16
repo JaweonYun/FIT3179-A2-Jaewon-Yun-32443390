@@ -17,7 +17,7 @@
       "lookup": "properties.ISO_A3",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/JaweonYun/FIT3179-Assignment-2-Jaewon-Yun-32443390/refs/heads/main/data/final_country_immigration_data.csv"
+          "url": "https://raw.githubusercontent.com/JaweonYun/FIT3179-A2-Jaewon-Yun-32443390/refs/heads/main/data/final_country_immigration_data.csv"
         },
         "key": "Code",
         "fields": ["Total_Immigration"]
